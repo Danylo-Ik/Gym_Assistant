@@ -120,6 +120,7 @@ a.dropbtn {
 
 a:link { 
   text-decoration: none;
+  color: rgba(51,51,51,1);
 } 
 a:visited { 
   text-decoration: none;
