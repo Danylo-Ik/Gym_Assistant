@@ -114,35 +114,18 @@ a.dropbtn {
 
 }
 
-/* .dropdown a:hover {background-color: #ffffff;} */
-
 .show {display: block;}
 
 
 
-/* a:link { 
+a:link { 
   text-decoration: none;
 } 
 a:visited { 
   text-decoration: none;
   color: rgba(51,51,51,1);
 } 
-a:hover { 
 
-  /* border-bottom-width:4px ; 
-  border-bottom-style: outset; 
-
-  padding-bottom:3px;
-  transition: 0.5s;
-  background-image: linear-gradient(90deg, #e93b3b, #f2a640);
-  background-position: bottom;
-  background-size: 100% 10%;
-  background-repeat: no-repeat;
-}
-
-a:active { 
-  text-decoration: none; 
-} */
 a.underline-hover-effect {
   text-decoration: none;
   color: inherit;
@@ -150,7 +133,7 @@ a.underline-hover-effect {
 
 .underline-hover-effect {
   display: inline-block;
-  padding-bottom: 0.25rem; /* defines the space between text and underline */
+  padding-bottom: 0.25rem;
   position: relative;
 }
 
